@@ -6,8 +6,8 @@ This project focuses on enhancing video quality by upscaling individual frames u
 
 <table>
   <tr>
-    <td><img src="original.png" alt="Original Frame" width="400"/></td>
-    <td><img src="enhanced.png" alt="Enhanced Frame" width="400"/></td>
+    <td><img src="originalframe.png" alt="Original Frame" width="400"/></td>
+    <td><img src="enhance.png" alt="Enhanced Frame" width="400"/></td>
   </tr>
   <tr>
     <td><center><b>Original Frame</b></center></td>
