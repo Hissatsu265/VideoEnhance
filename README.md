@@ -51,7 +51,7 @@ Our distilled model demonstrates:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/video-enhancement.git
+git clone https://github.com/Hissatsu265/VideoEnhance/
 cd video-enhancement
 
 # Create virtual environment (optional but recommended)
